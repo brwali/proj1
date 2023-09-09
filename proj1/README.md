@@ -1,6 +1,6 @@
 # Project Scoring
 
-[Repo2](##Repo2)
+[Repo2](#Repo2)
 
 ## Repo 1
 https://github.com/NCSU-S/units_converter_extension
