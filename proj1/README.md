@@ -1,4 +1,7 @@
 # Project Scoring
+
+[Repo2](##Repo2)
+
 ## Repo 1
 https://github.com/NCSU-S/units_converter_extension
 
@@ -109,7 +112,7 @@ Do you list your important partners and collaborators on your website?|
   Do you make timely announcements of the deprecation of components, APIs, etc.?|
 
 
-## Repo 2
+## Repo2
 https://github.com/harshitpatel96/GITS
 
 | Criteria | Points | Justification|
