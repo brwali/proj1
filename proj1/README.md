@@ -1,8 +1,8 @@
 # Project Scoring
 
-[Repo2](#Repo2)
+[Repo1](#Repo1) [Repo2](#Repo2) [Repo3](#Repo3) [Repo4](#Repo4) [Repo5](#Repo5)
 
-## Repo 1
+## Repo1
 https://github.com/NCSU-S/units_converter_extension
 
 | Criteria | Points | Justification|
@@ -220,7 +220,7 @@ Do you list your important partners and collaborators on your website?|no
   Does your website or documentation describe how your project is funded, and the period over which funding is guaranteed?|no
   Do you make timely announcements of the deprecation of components, APIs, etc.?|no
 
-## Repo 3
+## Repo3
 https://github.com/mrpudlo/SE_Project1
 | Criteria | Points | Justification|
 -----------|--------|---------------|
@@ -328,7 +328,7 @@ Do you list your important partners and collaborators on your website?|
   Do you make timely announcements of the deprecation of components, APIs, etc.?|
 
 
-## Repo 4
+## Repo4
 https://github.com/secheaper/slashbot
 | Criteria | Points | Justification|
 -----------|--------|---------------|
@@ -436,7 +436,7 @@ Do you list your important partners and collaborators on your website?|
   Do you make timely announcements of the deprecation of components, APIs, etc.?|
 
 
-## Repo 5
+## Repo5
 https://github.com/CSC510-Group-25/ClassMateBot
 | Criteria | Points | Justification|
 -----------|--------|---------------|
