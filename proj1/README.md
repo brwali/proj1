@@ -1,3 +1,4 @@
+[Video](#Video) [Reflection](#Reflection)
 # Project Scoring
 
 [Repo1](#Repo1) [Repo2](#Repo2) [Repo3](#Repo3) [Repo4](#Repo4) [Repo5](#Repo5)
@@ -544,3 +545,4 @@ Do you list your important partners and collaborators on your website?|
   Do you make timely announcements of the deprecation of components, APIs, etc.?|
 
 # Video
+# Reflection
