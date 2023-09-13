@@ -166,7 +166,7 @@ Is your software available as a package that can be deployed without building it
   Do you provide troubleshooting information that describes the symptoms and step-by-step solutions for problems and error messages?|no
   If your software can be used as a library, package or service by other software, do you provide comprehensive API documentation?|yes
   Do you store your documentation under revision control with your source code?|yes
-  Do you publish your release history e.g. release data, version numbers, key features of each release etc. on your web site or in your documentation?|?
+  Do you publish your release history e.g. release data, version numbers, key features of each release etc. on your web site or in your documentation?|no
   Does your software describe how a user can get help with using your software?|no
   Does your website and documentation describe what support, if any, you provide to users and developers?|yes
   Does your project have an e-mail address or forum that is solely for supporting users?|no
@@ -186,7 +186,7 @@ Is your software available as a package that can be deployed without building it
    Is there a branch of the repository that is always stable? (i.e. tests always pass, code always builds successfully)|yes
    Do you back-up your repository?|no
    Do you provide publicly-available instructions for building your software from the source code?|yes
-   Can you build, or package, your software using an automated tool? e.g. Make (https://www.gnu.org/software/make/), ANT (http://ant.apache.org/), Maven (https://maven.apache.org/), CMake (https://cmake.org/), Python setuptools (https://pypi.python.org/pypi/setuptools), or R package tools (https://cran.r-project.org/doc/manuals/r-devel/R-exts.html)|?
+   Can you build, or package, your software using an automated tool? e.g. Make (https://www.gnu.org/software/make/), ANT (http://ant.apache.org/), Maven (https://maven.apache.org/), CMake (https://cmake.org/), Python setuptools (https://pypi.python.org/pypi/setuptools), or R package tools (https://cran.r-project.org/doc/manuals/r-devel/R-exts.html)|yes
 Do you provide publicly-available instructions for deploying your software?|yes
 Does your documentation list all third-party dependencies?|no
 Does your documentation list the version number for all third-party dependencies?|no
@@ -209,7 +209,7 @@ Do you list your important partners and collaborators on your website?|no
  Do you accept contributions (e.g. bug fixes, enhancements, documentation updates, tutorials) from people who are not part of your project?|yes
  Do you have a contributions policy?|yes
  Is your contributions' policy publicly available?|yes
- Do contributors keep the copyright/IP of their contributions?|?
+ Do contributors keep the copyright/IP of their contributions?|no
  Does your website and documentation clearly state the copyright owners of your software and documentation?|yes
  Does each of your source code files include a copyright statement?|no
  Does your website and documentation clearly state the licence of your software?|yes
