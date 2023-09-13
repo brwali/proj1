@@ -155,13 +155,13 @@ Short release cycles| 3|
 Do you publish case studies to show how your software has been used by yourself and others?|no
 Is the name of your project/software unique?|yes
 Is your project/software name free from trademark violations?|yes
-Is your software available as a package that can be deployed without building it?|?
+Is your software available as a package that can be deployed without building it?|no
  Is your software available for free?|yes
  Is your source code publicly available to download, either as a downloadable bundle or via access to a source code repository?|yes
  Is your software hosted in an established, third-party repository likeGitHub (https://github.com), BitBucket (https://bitbucket.org),LaunchPad (https://launchpad.net) orSourceForge (https://sourceforge.net)?|yes
  Is your documentation clearly available on your website or within your software?|yes
  Does your documentation include a "quick start" guide, that provides a short overview of how to use your software with some basic examples of use?|yes
-  If you provide more extensive documentation, does this provide clear, step-by-step instructions on how to deploy and use your software?|?
+  If you provide more extensive documentation, does this provide clear, step-by-step instructions on how to deploy and use your software?|yes
   Do you provide a comprehensive guide to all your software’s commands, functions and options?|yes
   Do you provide troubleshooting information that describes the symptoms and step-by-step solutions for problems and error messages?|no
   If your software can be used as a library, package or service by other software, do you provide comprehensive API documentation?|yes
@@ -184,7 +184,7 @@ Is your software available as a package that can be deployed without building it
    Is each source code release a snapshot of the repository?|yes
    Are releases tagged in the repository?|yes
    Is there a branch of the repository that is always stable? (i.e. tests always pass, code always builds successfully)|yes
-   Do you back-up your repository?|?
+   Do you back-up your repository?|no
    Do you provide publicly-available instructions for building your software from the source code?|yes
    Can you build, or package, your software using an automated tool? e.g. Make (https://www.gnu.org/software/make/), ANT (http://ant.apache.org/), Maven (https://maven.apache.org/), CMake (https://cmake.org/), Python setuptools (https://pypi.python.org/pypi/setuptools), or R package tools (https://cran.r-project.org/doc/manuals/r-devel/R-exts.html)|?
 Do you provide publicly-available instructions for deploying your software?|yes
@@ -192,12 +192,12 @@ Does your documentation list all third-party dependencies?|no
 Does your documentation list the version number for all third-party dependencies?|no
 Does your software list the web address, and licences for all third-party dependencies and say whether the dependencies are mandatory or optional?|yes
 Can you download dependencies using a dependency management tool or package manager? e.g. Ivy (http://ant.apache.org/ivy/), Maven (https://maven.apache.org/), Python pip (https://pypi.python.org/pypi/pip) or setuptools (https://pypi.python.org/pypi/setuptools), PHP Composer (https://getcomposer.org/), Ruby gems (https://rubygems.org), or R PackRat (https://rstudio.github.io/packrat/)|yes
-Do you have tests that can be run after your software has been built or deployed to show whether the build or deployment has been successful?|
+Do you have tests that can be run after your software has been built or deployed to show whether the build or deployment has been successful?|yes
 Do you have an automated test suite for your software?|yes
-Do you have a framework to periodically (e.g. nightly) run your tests on the latest version of the source code?|?
+Do you have a framework to periodically (e.g. nightly) run your tests on the latest version of the source code?|no
 Do you use continuous integration, automatically running tests whenever changes are made to your source code?|yes
-Are your test results publicly visible?|?
-Are all manually-run tests documented?|?
+Are your test results publicly visible?|no
+Are all manually-run tests documented?|no
 Does your project have resources (e.g. blog, Twitter, RSS feed, Facebook page, wiki, mailing list) that are regularly updated with information about your software? e.g. release announcements, publications, workshops, conference presentations|no
 Does your website state how many projects and users are associated with your project?|no
 Do you provide success stories on your website?|no
