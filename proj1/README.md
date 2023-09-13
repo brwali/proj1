@@ -546,3 +546,8 @@ Do you list your important partners and collaborators on your website?|
 
 # Video
 # Reflection
+
+One difficulty that was encountered in the installation process was that several dependencies were out of date. When following the instructions one of the commands that is given to install all the dependencies fast was 
+``
+pip install -r requirements.txt
+``, which installed the dependencies and the version number that the previous group was using. While this did lead to the bot running, it did not allow the bot to run properly as the commands for the bot were not being recognized when I typed them into the discord server. This was ultimately because the discord.py dependency on requirements.txt was out of date and after I had updated that dependency all the commands were being recognized. This could have been avoided if in the installation instructions there was an FAQ section at the bottom with one of the first entries to be to try and update all dependencies first if there was a runtime issue. 
