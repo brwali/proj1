@@ -545,6 +545,7 @@ Do you list your important partners and collaborators on your website?|
   Do you make timely announcements of the deprecation of components, APIs, etc.?|
 
 # Video
+https://www.youtube.com/watch?v=6wKMcelf_UA
 # Reflection
 
 One difficulty that was encountered in the installation process was that several dependencies were out of date. When following the instructions one of the commands that is given to install all the dependencies fast was 
