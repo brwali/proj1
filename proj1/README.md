@@ -1,7 +1,7 @@
 [Video](#Video)  |  [Reflection](#Reflection)
 # Project Scoring
 
-[Repo1](#Repo1) [Repo2](#Repo2) [Repo3](#Repo3) [Repo4](#Repo4) [Repo5](#Repo5)
+[Repo1](#Repo1) | [Repo2](#Repo2) | [Repo3](#Repo3) | [Repo4](#Repo4) | [Repo5](#Repo5)
 
 ## Repo1
 https://github.com/NCSU-S/units_converter_extension
