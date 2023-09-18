@@ -463,9 +463,9 @@ Other automated analysis tools| 2|
 Test cases exist|3 |
 Test cases are routinely executed| |
 The files CONTRIBUTING.md lists coding standards and lots of tips on how to extend the system without screwing things up|3 |
-Issues are discussed before they are closed|1 |
-Chat channel: exists| 0|
-Test cases: a large proportion of the issues related to handling failing cases.| 1|
+Issues are discussed before they are closed|1 |There are seldom comments on the issues on GH
+Chat channel: exists| 0| No evidence of this exists in the repo
+Test cases: a large proportion of the issues related to handling failing cases.| 1|Only a couple of the issues are related to failing test cases
 Evidence that the whole team is using the same tools: everyone can get to all tools and files|3 |
 Evidence that the whole team is using the same tools (e.g. config files in the repo, updated by lots of different people)| 3|
 Evidence that the whole team is using the same tools (e.g. tutor can ask anyone to share screen, they demonstrate the system running on their computer)| 3|
